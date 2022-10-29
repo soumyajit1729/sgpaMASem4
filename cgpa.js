@@ -1,4 +1,4 @@
-            var y3,y2,y1,x1,x2,x3,x4,cg;
+            var y3,y2,y1,x1,x2,x3,x4,x5,cg;
             x1=x2=x3=x4=y1=y2=y3=cg=0;
             $(".m").click(function(){
     			$("#m").text($(this).text());	                       
