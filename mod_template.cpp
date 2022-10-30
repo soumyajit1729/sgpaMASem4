@@ -17,3 +17,6 @@ int modpower(int a, int n){
 int modinv(int a){
     return modpower(a,mod-2);
 }   
+int modinv3(int b){
+    return modpower(b,mod-3);
+}   
